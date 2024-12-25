@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-aharanodes"
+description = "NODES:Frame Segmenter, Get Frame at Index, Repeat Sampler Config, Patch Repeat Sampler Config (Model), Patch Repeat Sampler Config (Latent), KSampler (Simple Input)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/chris-arsenault/ComfyUI-AharaNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "chris-arsenault"
+DisplayName = "ComfyUI-AharaNodes"
+Icon = ""
