@@ -9,6 +9,6 @@ Repository = "https://github.com/chris-arsenault/ComfyUI-AharaNodes"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "chris-arsenault"
 DisplayName = "ComfyUI-AharaNodes"
 Icon = ""
